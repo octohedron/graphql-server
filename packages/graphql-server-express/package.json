@@ -27,7 +27,7 @@
   "homepage": "https://github.com/apollostack/graphql-server#readme",
   "dependencies": {
     "graphql-server-core": "^0.7.0",
-    "graphql-server-module-graphiql": "^0.7.0"
+    "graphql-server-module-graphiql": "github:octohedron/graphql-server/packages/graphql-server-module-graphiql#dbbd77572b8f4ca3dc7965e13d3cee50e6807656"
   },
   "devDependencies": {
     "@types/body-parser": "1.16.3",
